@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "version": "0.1.0", "description": "A pane showing context fill, rate-limit windows and session cost, with history", "types": "./types/index.d.ts" }

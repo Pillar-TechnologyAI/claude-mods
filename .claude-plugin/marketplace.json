@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Pillar-TechnologyAI" },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./plugins/usage-meter",
+      "description": "A band above the prompt showing context fill, rate-limit windows with run-out warnings, and estimated session cost"
+    }
+  ]
+}
